@@ -21,5 +21,4 @@ public class TestCase {
 		int a = 23+45;
 		assertEquals(a,sm.add(23, 45));
 	}
-
 }
